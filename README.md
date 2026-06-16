@@ -29,8 +29,6 @@ GourmetGo is built using lightweight, performance-optimized frontend technologie
 1. Clone the repository.
 2. Open index.html in a web browser.
 
-Live Demo: https://ziadtaham.github.io/mealify/
-
 ---
 
 Production-ready digital presence for professional culinary businesses.
