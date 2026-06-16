@@ -1,0 +1,3 @@
+# .nojekyll
+# This file tells GitHub Pages not to run the Jekyll build process.
+# Since this is a static site (HTML/CSS), it will load faster and avoid "missing folder" errors.
